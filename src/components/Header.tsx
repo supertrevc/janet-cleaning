@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Phone, Menu, X, Sparkles } from "lucide-react";
@@ -52,15 +53,20 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
       {/* Main bar */}
       <div className="border-b border-slate-100 bg-white/90 backdrop-blur supports-[backdrop-filter]:bg-white/75">
         <div className="container-page flex h-16 items-center justify-between gap-4 lg:h-[4.5rem]">
-          {/* Logo (placeholder treatment until a real logo is supplied) */}
+          {/* Logo */}
           <Link
             href={base}
             className="flex items-center gap-2.5"
             aria-label={`${business.name} — ${dict.nav.home}`}
           >
-            <span className="grid h-10 w-10 place-items-center rounded-xl bg-gradient-to-br from-brand-500 to-brand-700 text-white shadow-[0_8px_20px_-8px_rgba(13,148,136,0.7)]">
-              <Sparkles className="h-5 w-5" aria-hidden="true" />
-            </span>
+            <Image
+              src="/janets-logo.svg"
+              alt="Janet's Cleaning logo"
+              width={40}
+              height={40}
+              priority
+              className="h-10 w-auto"
+            />
             <span className="flex flex-col leading-tight">
               <span className="font-heading text-lg font-bold text-ink">
                 {business.name}

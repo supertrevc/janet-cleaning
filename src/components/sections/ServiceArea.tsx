@@ -47,27 +47,20 @@ export function ServiceArea({
           </div>
         </div>
 
-        {/* Stylized map placeholder (no real map embed required) */}
+        {/* Denver metro service-area map */}
         <Reveal delay={0.1} className="order-first lg:order-last">
-          <div className="relative aspect-square w-full overflow-hidden rounded-[2rem] bg-gradient-to-br from-brand-50 to-brand-100 ring-1 ring-brand-100">
-            <div
-              aria-hidden="true"
-              className="absolute inset-0 opacity-[0.18] [background-image:linear-gradient(to_right,#0f766e_1px,transparent_1px),linear-gradient(to_bottom,#0f766e_1px,transparent_1px)] [background-size:40px_40px]"
+          <div className="relative aspect-square w-full overflow-hidden rounded-[2rem] ring-1 ring-brand-100">
+            <iframe
+              title={
+                locale === "es"
+                  ? "Mapa del área de servicio del área metropolitana de Denver"
+                  : "Map of Denver metro service area"
+              }
+              src="https://maps.google.com/maps?q=Denver,CO&z=10&output=embed"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              className="absolute inset-0 h-full w-full border-0"
             />
-            <div className="absolute inset-0 grid place-items-center">
-              <div className="text-center">
-                <span className="relative grid h-20 w-20 place-items-center">
-                  <span className="absolute inset-0 animate-ping rounded-full bg-brand-500/30" />
-                  <span className="relative grid h-16 w-16 place-items-center rounded-full bg-brand-600 text-white shadow-card">
-                    <MapPin className="h-8 w-8" aria-hidden="true" />
-                  </span>
-                </span>
-                <p className="mt-4 font-heading text-lg font-bold text-brand-800">
-                  {business.city}, {business.region}
-                </p>
-                <p className="text-sm text-brand-600">{dict.common.denverMetro}</p>
-              </div>
-            </div>
           </div>
         </Reveal>
       </div>

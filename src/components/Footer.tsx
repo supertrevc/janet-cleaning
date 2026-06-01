@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Phone, Mail, MapPin, Sparkles } from "lucide-react";
 import type { Locale } from "@/lib/i18n";
@@ -24,9 +25,13 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
           {/* Brand */}
           <div className="lg:col-span-4">
             <div className="flex items-center gap-2.5">
-              <span className="grid h-10 w-10 place-items-center rounded-xl bg-gradient-to-br from-brand-500 to-brand-700 text-white">
-                <Sparkles className="h-5 w-5" aria-hidden="true" />
-              </span>
+              <Image
+                src="/janets-logo.svg"
+                alt="Janet's Cleaning logo"
+                width={40}
+                height={40}
+                className="h-10 w-auto"
+              />
               <span className="font-heading text-xl font-bold text-white">
                 {business.name}
               </span>

@@ -73,7 +73,8 @@ export async function generateMetadata({
       follow: true,
       googleBot: { index: true, follow: true, "max-image-preview": "large" },
     },
-    icons: { icon: "/favicon.ico" },
+    // Icons are auto-wired from the app-dir file conventions
+    // (src/app/icon.png, src/app/apple-icon.png, src/app/favicon.ico).
   };
 }
 

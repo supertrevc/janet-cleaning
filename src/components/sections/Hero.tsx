@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Phone, Star, ShieldCheck, Clock, Sparkles, CircleCheck } from "lucide-react";
 import type { Locale } from "@/lib/i18n";
 import type { Dictionary } from "@/lib/dictionaries";
@@ -66,23 +67,26 @@ export function Hero({ locale, dict }: { locale: Locale; dict: Dictionary }) {
           </div>
         </div>
 
-        {/* Visual — gradient + icon placeholder treatment (no real photos yet) */}
+        {/* Visual — hero photo */}
         <div className="relative animate-fade-up [animation-delay:120ms]">
-          <div className="relative mx-auto aspect-[4/5] w-full max-w-md overflow-hidden rounded-[2rem] bg-gradient-to-br from-brand-500 via-brand-600 to-brand-800 shadow-card">
-            {/* pattern */}
+          <div className="relative mx-auto aspect-[4/5] w-full max-w-md overflow-hidden rounded-[2rem] shadow-card">
+            <Image
+              src="/hero.jpg"
+              alt={
+                locale === "es"
+                  ? "Interior de una casa limpia y luminosa en Denver"
+                  : "Bright, freshly cleaned Denver home interior"
+              }
+              fill
+              priority
+              sizes="(max-width: 1024px) 100vw, 28rem"
+              className="object-cover"
+            />
+            {/* subtle brand tint for contrast over the photo */}
             <div
               aria-hidden="true"
-              className="absolute inset-0 opacity-20 [background-image:radial-gradient(circle_at_1px_1px,white_1px,transparent_0)] [background-size:22px_22px]"
+              className="absolute inset-0 bg-gradient-to-t from-brand-900/30 via-brand-900/5 to-transparent"
             />
-            <div className="absolute inset-0 grid place-items-center p-8">
-              <div className="grid h-28 w-28 place-items-center rounded-3xl bg-white/15 backdrop-blur-sm ring-1 ring-white/30">
-                <Sparkles className="h-14 w-14 text-white" aria-hidden="true" />
-              </div>
-            </div>
-            {/* label */}
-            <p className="absolute bottom-5 left-0 right-0 text-center text-xs font-medium uppercase tracking-wider text-white/60">
-              {t.imageAlt}
-            </p>
           </div>
 
           {/* Floating stat card: reliability */}
