@@ -1,0 +1,7 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Janet's Cleaning logo">
+  <rect width="512" height="512" rx="116" fill="#0D9488"/>
+  <polygon points="146,258 256,158 366,258" fill="#ffffff"/>
+  <rect x="176" y="258" width="160" height="112" rx="12" fill="#ffffff"/>
+  <path d="M256 280 Q264 310 294 318 Q264 326 256 356 Q248 326 218 318 Q248 310 256 280 Z" fill="#F59E0B"/>
+  <path d="M388 130 Q392.5 145.5 408 150 Q392.5 154.5 388 170 Q383.5 154.5 368 150 Q383.5 145.5 388 130 Z" fill="#F59E0B"/>
+</svg>
