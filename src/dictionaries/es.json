@@ -1,0 +1,427 @@
+{
+  "common": {
+    "requestQuote": "Solicite una cotización gratis",
+    "getFreeQuote": "Cotización gratis",
+    "callNow": "Llame ahora",
+    "callUs": "Llámenos",
+    "emailUs": "Escríbanos",
+    "phone": "Teléfono",
+    "email": "Correo",
+    "serviceArea": "Área de servicio",
+    "denverMetro": "Área metropolitana de Denver",
+    "servingArea": "Atendemos Denver y las zonas aledañas del área metropolitana",
+    "learnMore": "Más información",
+    "viewServices": "Ver servicios",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "openMenu": "Abrir menú",
+    "skipToContent": "Saltar al contenido",
+    "languageEnglish": "English",
+    "languageSpanish": "Español",
+    "switchToSpanish": "Ver en español",
+    "switchToEnglish": "View in English",
+    "bilingual": "Hablamos Español",
+    "familyOwned": "Negocio familiar",
+    "backHome": "Volver al inicio",
+    "callForQuote": "Llame al (720) 690-9613"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "quote": "Cotización gratis"
+  },
+  "meta": {
+    "home": {
+      "title": "Limpieza de casas y oficinas en Denver, CO",
+      "description": "Janet's Cleaning es un servicio de limpieza familiar y bilingüe, residencial y comercial, que atiende el área de Denver desde hace más de 8 años. El equipo de limpieza que sí llega. Solicite una cotización gratis."
+    },
+    "services": {
+      "title": "Nuestros servicios de limpieza",
+      "description": "Limpieza recurrente de casas, limpieza profunda, mudanzas y limpieza de oficinas y comercios en el área de Denver. Negocio familiar, bilingüe y confiable. Cotizaciones gratis."
+    },
+    "about": {
+      "title": "Acerca de Janet's Cleaning",
+      "description": "Negocio familiar de Janet Liliana que atiende hogares y empresas de Denver desde hace más de 8 años con una limpieza confiable, consistente y bilingüe."
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "description": "Llame al (720) 690-9613, escríbanos o solicite una cotización gratis. Janet's Cleaning atiende el área de Denver en inglés y español."
+    },
+    "quote": {
+      "title": "Solicite una cotización gratis",
+      "description": "Cuéntenos sobre su casa u oficina y reciba una cotización de limpieza gratis y sin compromiso de Janet's Cleaning. Atendemos el área de Denver en inglés y español."
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "description": "Cómo Janet's Cleaning recopila, usa y protege la información que usted comparte con nosotros."
+    },
+    "terms": {
+      "title": "Términos de servicio",
+      "description": "Los términos que aplican cuando usa el sitio web de Janet's Cleaning y solicita nuestros servicios."
+    },
+    "notFound": {
+      "title": "Página no encontrada",
+      "description": "No se pudo encontrar la página que busca."
+    }
+  },
+  "header": {
+    "topBarText": "Negocio familiar y totalmente bilingüe — atendiendo el área de Denver desde hace más de 8 años"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Limpieza familiar de casas y oficinas en Denver",
+      "title": "El equipo de limpieza que sí llega.",
+      "subtitle": "Janet's Cleaning es un negocio familiar de Denver en el que dueños de casa y oficinas confían desde hace más de 8 años. Las mismas personas confiables en cada visita —no un equipo que cambia cada vez— haciendo un excelente trabajo a un precio justo.",
+      "primaryCta": "Solicite una cotización gratis",
+      "secondaryCta": "Llame al (720) 690-9613",
+      "reliabilityBadge": "En años de servicio, solo hemos faltado a una limpieza programada.",
+      "rating": "La confianza de las familias de Denver",
+      "imageAlt": "Sala iluminada y recién limpiada"
+    },
+    "trustBar": {
+      "title": "Por qué los vecinos eligen Janet's Cleaning",
+      "items": [
+        { "title": "Sí llegamos", "desc": "En más de 8 años solo faltamos a una limpieza programada. Sin ausencias, sin sorpresas." },
+        { "title": "Las mismas personas de confianza", "desc": "Un pequeño equipo familiar, no extraños distintos cada vez en su hogar." },
+        { "title": "Excelente trabajo, precio justo", "desc": "Limpieza minuciosa y consistente a un precio honesto. Sin ventas adicionales ni trucos." },
+        { "title": "Totalmente bilingües", "desc": "Citas fáciles y comunicación clara en inglés y español." }
+      ]
+    },
+    "problem": {
+      "eyebrow": "El problema con la mayoría de los servicios",
+      "title": "¿Cansado de servicios que cancelan, no llegan o nunca limpian igual dos veces?",
+      "subtitle": "Usted no debería tener que preguntarse si su servicio de limpieza realmente llegará — ni quién está entrando a su hogar.",
+      "painTitle": "A lo que está acostumbrado",
+      "pains": [
+        "Cancelaciones de último momento y ausencias",
+        "Un extraño diferente en su hogar cada vez",
+        "Excelente una semana, descuidado la siguiente",
+        "Difíciles de localizar y de comunicar"
+      ],
+      "solutionTitle": "Lo que recibe con Janet's",
+      "solutions": [
+        "Un equipo que solo ha faltado a una limpieza en más de 8 años",
+        "Las mismas personas de confianza, un negocio familiar, en cada visita",
+        "Resultados consistentes y detallistas en los que puede confiar",
+        "Atención amable y rápida en inglés y español"
+      ]
+    },
+    "servicesOverview": {
+      "eyebrow": "Lo que hacemos",
+      "title": "Limpieza residencial y comercial",
+      "subtitle": "Desde el mantenimiento semanal hasta una limpieza profunda antes de una mudanza, nuestro equipo familiar cubre todo el área de Denver.",
+      "cta": "Ver todos los servicios"
+    },
+    "whyUs": {
+      "eyebrow": "La diferencia de Janet's",
+      "title": "Una limpieza por la que no tiene que preocuparse",
+      "subtitle": "Construimos nuestra reputación en lo que los servicios poco confiables hacen mal.",
+      "points": [
+        { "title": "Confiables y puntuales", "desc": "La queja #1 sobre los servicios de limpieza son las ausencias. En más de 8 años, hemos faltado a exactamente una limpieza programada." },
+        { "title": "Calidad consistente y minuciosa", "desc": "El mismo estándar cuidadoso en cada visita, no excelente una vez y descuidado la siguiente." },
+        { "title": "Las mismas personas de confianza", "desc": "Al ser un pequeño negocio familiar, ve caras conocidas, no un equipo de extraños que cambia cada vez." },
+        { "title": "Totalmente bilingües", "desc": "Nos comunicamos con claridad en inglés y español — citas fáciles y sin malentendidos." },
+        { "title": "Precios justos y honestos", "desc": "Un excelente trabajo a un precio justo, con descuentos para clientes recurrentes. Sin ventas adicionales." },
+        { "title": "Horarios flexibles", "desc": "Semanal, quincenal, mensual o una sola vez. Nos adaptamos a su vida." }
+      ]
+    },
+    "trustSignals": {
+      "title": "Construido sobre la confianza",
+      "items": [
+        { "value": "8+ años", "label": "Atendiendo el área de Denver" },
+        { "value": "1", "label": "Limpieza faltada en todos esos años" },
+        { "value": "Negocio familiar", "label": "Las mismas personas, cada visita" },
+        { "value": "[Insured? confirm with owner]", "label": "Estado de seguro / fianza", "placeholder": true }
+      ]
+    },
+    "howItWorks": {
+      "eyebrow": "Sencillo desde el inicio",
+      "title": "Cómo funciona",
+      "subtitle": "Conseguir un servicio de limpieza de confianza no debería ser complicado.",
+      "steps": [
+        { "title": "Solicite una cotización gratis", "desc": "Llame al (720) 690-9613 o complete nuestro formulario. Cuéntenos sobre su espacio y lo que necesita." },
+        { "title": "Reciba un precio claro y justo", "desc": "Le daremos una cotización honesta según el tamaño de su casa, la frecuencia y los servicios." },
+        { "title": "Lo dejamos impecable", "desc": "Nuestro equipo familiar bilingüe llega a tiempo y limpia con una lista de verificación — cada detalle cubierto." }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Lo que dicen los clientes",
+      "title": "La confianza de hogares y oficinas del área de Denver",
+      "subtitle": "Esto fue lo que compartió un cliente real en Nextdoor. Pronto agregaremos más reseñas verificadas de Google y Nextdoor.",
+      "disclaimer": "Los espacios de abajo están reservados para reseñas reales de Google/Nextdoor — se agregarán antes del lanzamiento, no se inventarán.",
+      "items": [
+        { "quote": "Janet's Cleaning es un negocio familiar y hace un excelente trabajo a un precio justo. En los años que hemos trabajado con ellos, solo han faltado a una limpieza programada.", "name": "J.M., Denver", "source": "vía Nextdoor", "real": true },
+        { "quote": "[Add real Google/Nextdoor review]", "name": "[Nombre del cliente]", "source": "Google / Nextdoor", "real": false },
+        { "quote": "[Add real Google/Nextdoor review]", "name": "[Nombre del cliente]", "source": "Google / Nextdoor", "real": false }
+      ]
+    },
+    "serviceArea": {
+      "eyebrow": "Dónde limpiamos",
+      "title": "Con orgullo atendemos el área de Denver",
+      "subtitle": "Atendemos Denver y las zonas aledañas del área metropolitana. Si vive en estas comunidades o cerca, con gusto le ayudamos.",
+      "note": "¿No ve su ciudad? Llámenos — probablemente la cubrimos."
+    },
+    "faq": {
+      "eyebrow": "Bueno saber",
+      "title": "Preguntas frecuentes",
+      "subtitle": "Respuestas a lo que más nos preguntan los dueños de casa en Denver.",
+      "items": [
+        { "q": "¿Cuánto cuesta la limpieza?", "a": "La limpieza se cotiza porque cada hogar es diferente. El precio depende del tamaño de su casa, la frecuencia y el tipo de limpieza. Solicite una cotización gratis y le daremos un precio claro y justo — los clientes recurrentes ahorran con descuentos semanales, quincenales y mensuales." },
+        { "q": "¿Son confiables? ¿Alguna vez cancelan?", "a": "La confiabilidad es por lo que nos conocen. En más de 8 años atendiendo el área de Denver, solo hemos faltado a una limpieza programada. Cuando decimos que estaremos ahí, estamos ahí." },
+        { "q": "¿Serán las mismas personas cada vez?", "a": "Sí. Somos un pequeño negocio familiar, así que recibe a las mismas personas de confianza — no un equipo de extraños que cambia y entra a su hogar." },
+        { "q": "¿Necesito proporcionar productos de limpieza?", "a": "No — llevamos nuestros propios productos y equipo. Si prefiere que usemos productos específicos (por alergias, mascotas o superficies), solo díganos." },
+        { "q": "¿Tengo que estar en casa durante la limpieza?", "a": "Usted decide. Muchos clientes nos dan acceso mientras están en el trabajo; otros prefieren estar en casa. Como se sienta más cómodo — somos cuidadosos y respetuosos de cualquier forma." },
+        { "q": "¿Son bilingües?", "a": "Sí. Somos totalmente bilingües y atendemos a nuestros clientes de Denver en inglés y español. Yes, we speak English too." },
+        { "q": "¿Qué áreas atienden?", "a": "Atendemos Denver y el área metropolitana, incluyendo Aurora, Lakewood, Centennial, Englewood, Littleton, Arvada, Westminster, Thornton y más. ¿No está seguro si lo cubrimos? Solo llame." }
+      ]
+    },
+    "ctaBand": {
+      "title": "¿Listo para un equipo de limpieza que sí llega?",
+      "subtitle": "Reciba hoy una cotización gratis y sin compromiso. El teléfono es lo más rápido — pero con gusto responderemos su solicitud.",
+      "primaryCta": "Solicite una cotización gratis",
+      "secondaryCta": "Llame al (720) 690-9613"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Nuestros servicios",
+      "title": "Limpieza minuciosa para hogares y empresas",
+      "subtitle": "Limpieza residencial y comercial en toda el área de Denver — a cargo del mismo equipo familiar confiable, con cuidado y consistencia."
+    },
+    "list": {
+      "recurring": {
+        "name": "Limpieza recurrente de casas",
+        "tagline": "Mantenga su hogar impecable sin esfuerzo",
+        "desc": "Limpieza regular semanal, quincenal o mensual que mantiene su hogar siempre fresco — sin que usted mueva un dedo. Los clientes recurrentes disfrutan de nuestros mejores precios.",
+        "features": [
+          "Sacudir todas las superficies, repisas y accesorios",
+          "Mostradores de cocina, fregadero y exterior de electrodomésticos",
+          "Baños: inodoros, duchas, tinas, lavabos, espejos",
+          "Aspirar y trapear todos los pisos",
+          "Sacar la basura y ordenar",
+          "Descuentos para planes semanales, quincenales y mensuales"
+        ]
+      },
+      "deep": {
+        "name": "Limpieza profunda",
+        "tagline": "Una renovación de arriba a abajo",
+        "desc": "Una limpieza meticulosa de arriba a abajo que llega a la acumulación que la limpieza diaria no alcanza. Perfecta para clientes nuevos, limpieza de primavera o antes de una ocasión especial.",
+        "features": [
+          "Todo lo de una limpieza estándar, hecho más a fondo",
+          "Zócalos, marcos de puertas y sacudido detallado",
+          "Dentro de gabinetes y cajones (a solicitud)",
+          "Azulejos, lechada y acumulación de agua dura",
+          "Detrás y debajo de muebles movibles",
+          "Restregado detallado de cocina y baños"
+        ]
+      },
+      "moveInOut": {
+        "name": "Limpieza de mudanza (entrada / salida)",
+        "tagline": "Déjelo impecable, empiece de nuevo",
+        "desc": "Una limpieza completa para un hogar vacío — ideal para inquilinos que quieren recuperar su depósito, vendedores que preparan la venta o nuevos dueños que empiezan de cero. Excelente también para cambios de Airbnb y rentas a corto plazo.",
+        "features": [
+          "Limpieza profunda completa de un espacio vacío",
+          "Dentro de gabinetes, cajones y clósets",
+          "Dentro del horno y el refrigerador",
+          "Restregado detallado de baños y cocina",
+          "Zócalos, marcos de ventanas y accesorios",
+          "Listo para el siguiente inquilino o dueño"
+        ]
+      },
+      "office": {
+        "name": "Limpieza de oficinas y comercios",
+        "tagline": "Un lugar de trabajo que brilla",
+        "desc": "Limpieza confiable para oficinas, pequeños negocios y espacios comerciales en Denver. Horarios flexibles —incluso fuera de hora— para nunca interrumpir su jornada.",
+        "features": [
+          "Estaciones de trabajo, escritorios y áreas comunes",
+          "Baños limpios y reabastecidos",
+          "Salas de descanso y cocinas",
+          "Pisos aspirados y trapeados",
+          "Retiro de basura y reciclaje",
+          "Servicio flexible de día, tarde o fin de semana"
+        ]
+      }
+    },
+    "addOns": {
+      "title": "Servicios adicionales opcionales",
+      "subtitle": "Personalice cualquier limpieza con los extras que necesite.",
+      "items": {
+        "fridge": { "name": "Dentro del refrigerador", "desc": "Repisas, cajones y superficies limpias." },
+        "oven": { "name": "Dentro del horno", "desc": "Desengrasado y restregado por dentro y por fuera." },
+        "windows": { "name": "Ventanas interiores", "desc": "Vidrios interiores y marcos sin rayas." },
+        "laundry": { "name": "Lavandería", "desc": "Lavar, secar y doblar mientras limpiamos." }
+      }
+    },
+    "ctaBand": {
+      "title": "¿No está seguro de qué servicio necesita?",
+      "subtitle": "Cuéntenos sobre su espacio y le recomendaremos la opción ideal — con una cotización gratis.",
+      "primaryCta": "Solicite una cotización gratis",
+      "secondaryCta": "Llame al (720) 690-9613"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Nuestra historia",
+      "title": "Un negocio familiar local construido sobre la confianza",
+      "subtitle": "Janet's Cleaning es propiedad de Janet Liliana, quien lo opera — atendiendo el área de Denver desde hace más de 8 años con una limpieza confiable y detallista."
+    },
+    "story": {
+      "title": "Limpiamos los hogares de Denver como si fueran nuestros",
+      "paragraphs": [
+        "Janet's Cleaning comenzó con una idea sencilla: la gente merece un servicio de limpieza en el que pueda confiar de verdad — alguien que llega, hace un trabajo cuidadoso y trata su hogar con respeto.",
+        "Durante más de 8 años, la dueña Janet Liliana ha construido el negocio de boca en boca en toda el área de Denver, ganando clientes fieles un hogar impecable a la vez. Al ser un pequeño negocio familiar, recibe a las mismas personas de confianza en cada visita — no un equipo que cambia. En todos esos años, solo hemos faltado a una limpieza programada.",
+        "Como tantos de nuestros vecinos hablan español, ser totalmente bilingües siempre ha estado en el corazón de lo que hacemos. Las citas, las preguntas y las solicitudes especiales son fáciles en inglés o español — y el precio siempre es justo."
+      ]
+    },
+    "values": {
+      "title": "Lo que nos representa",
+      "items": [
+        { "title": "Confiabilidad", "desc": "Llegamos a tiempo, siempre. Una sola limpieza faltada en más de 8 años lo dice todo." },
+        { "title": "Atención al detalle", "desc": "Notamos —y limpiamos— lo que otros pasan por alto, igual en cada visita." },
+        { "title": "Confianza y respeto", "desc": "El mismo equipo familiar trata su hogar y sus pertenencias con el cuidado que merecen." },
+        { "title": "Comunicación clara", "desc": "Bilingües, amables y atentos — sin confusiones, nunca." }
+      ]
+    },
+    "stats": [
+      { "value": "8+ años", "label": "Atendiendo el área de Denver" },
+      { "value": "Negocio familiar", "label": "Las mismas personas de confianza" },
+      { "value": "Bilingüe", "label": "Inglés y español" }
+    ],
+    "trustNote": "[Insured? confirm with owner] — estado de seguro/fianza por confirmar antes del lanzamiento.",
+    "ctaBand": {
+      "title": "Hagamos que su espacio brille",
+      "subtitle": "Viva la limpieza de un equipo familiar que de verdad se preocupa. Solicite hoy su cotización gratis.",
+      "primaryCta": "Solicite una cotización gratis",
+      "secondaryCta": "Llame al (720) 690-9613"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contacto",
+      "title": "Hablemos de su espacio",
+      "subtitle": "El teléfono es la forma más rápida de contactarnos — pero también puede escribirnos o solicitar una cotización gratis y le responderemos enseguida."
+    },
+    "phoneCard": { "title": "Llámenos", "desc": "La forma más rápida de resolver dudas y agendar." },
+    "emailCard": { "title": "Escríbanos", "desc": "¿Prefiere escribir? Le responderemos lo antes posible." },
+    "areaCard": { "title": "Área de servicio", "desc": "Atendemos Denver y las zonas aledañas del área metropolitana." },
+    "hoursTitle": "Horario",
+    "hoursPlaceholder": "[Confirmar horario exacto con la dueña]",
+    "hoursNote": "Con cita previa. Llame o escríbanos en cualquier momento y le responderemos pronto.",
+    "formTitle": "Solicite una cotización gratis",
+    "formSubtitle": "Complete el formulario y le responderemos con un precio justo y sin compromiso."
+  },
+  "quote": {
+    "hero": {
+      "eyebrow": "Cotización gratis",
+      "title": "Solicite su cotización de limpieza gratis",
+      "subtitle": "Sin compromiso, sin presión. Cuéntenos sobre su espacio y le responderemos con un precio claro y justo. ¿Prefiere hablar? Llame al (720) 690-9613."
+    },
+    "pricing": {
+      "title": "Cómo funcionan nuestros precios",
+      "subtitle": "La limpieza se cotiza porque no hay dos espacios iguales. Su precio depende de tres cosas:",
+      "factors": [
+        { "title": "Tamaño de la casa u oficina", "desc": "Recámaras, baños y metros cuadrados — los espacios más grandes toman más tiempo." },
+        { "title": "Con qué frecuencia limpia", "desc": "Los planes recurrentes semanales, quincenales y mensuales cuestan menos por visita que una limpieza única." },
+        { "title": "Tipo de limpieza", "desc": "El mantenimiento estándar, una limpieza profunda o una de mudanza requieren distintos niveles de trabajo." }
+      ],
+      "discountNote": "Los clientes recurrentes ahorran más — pregunte por nuestros descuentos semanales, quincenales y mensuales."
+    },
+    "form": {
+      "title": "Cuéntenos sobre su espacio",
+      "subtitle": "Todos los campos marcados con * son obligatorios.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Su nombre",
+      "phone": "Teléfono",
+      "phonePlaceholder": "(720) 000-0000",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "usted@ejemplo.com",
+      "address": "Dirección o código postal",
+      "addressPlaceholder": "Ciudad o código postal — para confirmar el área de servicio",
+      "service": "Servicio que necesita",
+      "servicePlaceholder": "Seleccione un servicio",
+      "serviceOptions": {
+        "recurring": "Limpieza recurrente de casa",
+        "deep": "Limpieza profunda",
+        "moveInOut": "Mudanza (entrada / salida)",
+        "office": "Oficina / comercial",
+        "notSure": "No estoy seguro — ayúdenme a elegir"
+      },
+      "frequency": "Frecuencia",
+      "frequencyPlaceholder": "Seleccione una frecuencia",
+      "frequencyOptions": {
+        "weekly": "Semanal",
+        "biweekly": "Quincenal",
+        "monthly": "Mensual",
+        "oneTime": "Una sola vez",
+        "notSure": "Aún no estoy seguro"
+      },
+      "message": "¿Algo más?",
+      "messagePlaceholder": "Metros cuadrados, recámaras/baños, mascotas, estacionamiento, días preferidos o cualquier detalle especial.",
+      "consent": "Acepto que me contacten sobre mi cotización por teléfono, mensaje de texto o correo.",
+      "submit": "Enviar mi solicitud de cotización gratis",
+      "submitting": "Enviando…",
+      "requiredMark": "obligatorio"
+    },
+    "success": {
+      "title": "¡Solicitud recibida — gracias!",
+      "message": "Gracias por contactar a Janet's Cleaning. Le responderemos pronto con su cotización gratis. Para una respuesta más rápida, llámenos al (720) 690-9613.",
+      "again": "Enviar otra solicitud"
+    },
+    "errors": {
+      "name": "Por favor ingrese su nombre.",
+      "phone": "Por favor ingrese un número de teléfono válido.",
+      "email": "Por favor ingrese un correo electrónico válido.",
+      "contact": "Por favor proporcione un teléfono o correo para poder contactarle.",
+      "address": "Por favor ingrese su ciudad o código postal.",
+      "service": "Por favor seleccione un servicio.",
+      "consent": "Por favor acepte que le contactemos para poder enviarle su cotización.",
+      "generic": "Algo salió mal al enviar su solicitud. Llámenos al (720) 690-9613 o intente de nuevo."
+    }
+  },
+  "footer": {
+    "tagline": "Limpieza familiar y bilingüe de casas y oficinas en la que el área de Denver confía desde hace más de 8 años.",
+    "quickLinks": "Enlaces rápidos",
+    "servicesTitle": "Servicios",
+    "contactTitle": "Contáctenos",
+    "areaTitle": "Área de servicio",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "builtNote": "Negocio familiar · Atendemos Denver y las zonas aledañas del área metropolitana."
+  },
+  "legal": {
+    "lastUpdated": "Última actualización",
+    "privacy": {
+      "title": "Política de privacidad",
+      "intro": "Janet's Cleaning (\"nosotros\") respeta su privacidad. Esta política explica qué información recopilamos a través de este sitio web y cómo la usamos.",
+      "sections": [
+        { "h": "Información que recopilamos", "p": "Cuando solicita una cotización o nos contacta, recopilamos la información que usted decide proporcionar — como su nombre, teléfono, correo electrónico, ubicación de la propiedad y detalles sobre la limpieza que necesita. También podemos recopilar datos básicos y no identificables de uso mediante herramientas estándar de analítica web." },
+        { "h": "Cómo usamos su información", "p": "Usamos su información únicamente para responder a su solicitud, ofrecer una cotización, agendar y prestar nuestros servicios, y comunicarnos con usted sobre su limpieza. No vendemos su información personal." },
+        { "h": "Cómo lo contactamos", "p": "Al enviar una solicitud de cotización, usted acepta que podemos contactarle por teléfono, mensaje de texto o correo electrónico respecto a su solicitud. Puede dejar de recibir comunicaciones en cualquier momento avisándonos." },
+        { "h": "Compartir datos", "p": "No vendemos ni rentamos su información personal. Solo podemos compartirla con proveedores de confianza que nos ayudan a operar (por ejemplo, correo u hospedaje), y únicamente según sea necesario para atenderle o cuando la ley lo requiera." },
+        { "h": "Conservación y seguridad de datos", "p": "Conservamos su información solo el tiempo necesario para atenderle y cumplir obligaciones legales, y tomamos medidas razonables para protegerla. Ningún método de transmisión por internet es completamente seguro." },
+        { "h": "Sus opciones", "p": "Puede solicitar que actualicemos o eliminemos la información personal que nos compartió contactándonos con los datos de nuestra página de Contacto." },
+        { "h": "Cambios a esta política", "p": "Podemos actualizar esta política de vez en cuando. La versión más reciente siempre estará publicada en esta página." }
+      ]
+    },
+    "terms": {
+      "title": "Términos de servicio",
+      "intro": "Estos términos aplican al uso del sitio web de Janet's Cleaning y a su solicitud de nuestros servicios.",
+      "sections": [
+        { "h": "Uso de este sitio web", "p": "Este sitio web ofrece información sobre nuestros servicios de limpieza y le permite solicitar una cotización gratis. Las cotizaciones son estimados y no constituyen un contrato vinculante hasta confirmarse directamente con nosotros." },
+        { "h": "Cotizaciones y precios", "p": "La limpieza se cotiza. El precio final depende del tamaño de su espacio, la frecuencia del servicio, el tipo de limpieza y cualquier extra. Confirmaremos el precio con usted antes de comenzar cualquier trabajo." },
+        { "h": "Programación y cancelaciones", "p": "Hacemos nuestro mejor esfuerzo por llegar a tiempo y según lo programado. Pedimos un aviso razonable para cancelar o reprogramar y así poder atender bien a todos nuestros clientes." },
+        { "h": "Satisfacción", "p": "Si algo de su limpieza no quedó bien, avísenos pronto y trabajaremos para corregirlo." },
+        { "h": "Limitación de responsabilidad", "p": "En la medida permitida por la ley, nuestra responsabilidad se limita al valor del servicio específico prestado. Nada en estos términos excluye la responsabilidad que no pueda excluirse según la ley aplicable." },
+        { "h": "Contacto", "p": "¿Preguntas sobre estos términos? Contáctenos con los datos de nuestra página de Contacto." }
+      ]
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "subtitle": "Lo sentimos, no pudimos encontrar la página que buscaba. Le ayudamos a volver al camino.",
+    "cta": "Volver al inicio"
+  }
+}

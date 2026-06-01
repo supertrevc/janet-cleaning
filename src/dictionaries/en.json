@@ -1,0 +1,427 @@
+{
+  "common": {
+    "requestQuote": "Request a Free Quote",
+    "getFreeQuote": "Get a Free Quote",
+    "callNow": "Call Now",
+    "callUs": "Call us",
+    "emailUs": "Email us",
+    "phone": "Phone",
+    "email": "Email",
+    "serviceArea": "Service area",
+    "denverMetro": "Denver Metro",
+    "servingArea": "Serving Denver and surrounding metro areas",
+    "learnMore": "Learn more",
+    "viewServices": "View Services",
+    "menu": "Menu",
+    "close": "Close",
+    "openMenu": "Open menu",
+    "skipToContent": "Skip to content",
+    "languageEnglish": "English",
+    "languageSpanish": "Español",
+    "switchToSpanish": "Ver en español",
+    "switchToEnglish": "View in English",
+    "bilingual": "Hablamos Español",
+    "familyOwned": "Family owned & operated",
+    "backHome": "Back to home",
+    "callForQuote": "Call (720) 690-9613"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "quote": "Free Quote"
+  },
+  "meta": {
+    "home": {
+      "title": "House & Office Cleaning in Denver, CO",
+      "description": "Janet's Cleaning is a family-owned, bilingual house and office cleaning service serving the Denver metro for 8+ years. The cleaner who actually shows up. Request a free quote."
+    },
+    "services": {
+      "title": "Our Cleaning Services",
+      "description": "Recurring house cleaning, deep cleaning, move-in/move-out, and office & commercial cleaning across the Denver metro. Family-owned, bilingual, dependable. Free quotes."
+    },
+    "about": {
+      "title": "About Janet's Cleaning",
+      "description": "Family owned and operated by Janet Liliana, serving Denver homes and businesses for 8+ years with dependable, consistent, bilingual cleaning."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Call (720) 690-9613, email, or request a free cleaning quote. Janet's Cleaning serves the Denver metro in English and Spanish."
+    },
+    "quote": {
+      "title": "Request a Free Quote",
+      "description": "Tell us about your home or office and get a free, no-obligation cleaning quote from Janet's Cleaning. Serving the Denver metro in English and Spanish."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How Janet's Cleaning collects, uses, and protects the information you share with us."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "description": "The terms that apply when you use the Janet's Cleaning website and request our services."
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you're looking for couldn't be found."
+    }
+  },
+  "header": {
+    "topBarText": "Family owned & fully bilingual — serving the Denver metro for 8+ years"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Family-owned Denver house & office cleaning",
+      "title": "The cleaner who actually shows up.",
+      "subtitle": "Janet's Cleaning is a family-run Denver business that homeowners and offices have trusted for 8+ years. The same dependable people every visit — not a rotating crew — doing an awesome job at a fair price.",
+      "primaryCta": "Request a Free Quote",
+      "secondaryCta": "Call (720) 690-9613",
+      "reliabilityBadge": "In years of service, we've missed only one scheduled cleaning.",
+      "rating": "Trusted by Denver-metro families",
+      "imageAlt": "Bright, freshly cleaned living room"
+    },
+    "trustBar": {
+      "title": "Why neighbors choose Janet's Cleaning",
+      "items": [
+        { "title": "We actually show up", "desc": "In 8+ years we've missed just one scheduled cleaning. No no-shows, no surprises." },
+        { "title": "The same trusted people", "desc": "A small family team — not a rotating crew of strangers in your home." },
+        { "title": "Awesome work, fair price", "desc": "Thorough, consistent cleaning that's honestly priced. No upsells, no games." },
+        { "title": "Fully bilingual", "desc": "Easy scheduling and clear communication in both English and Spanish." }
+      ]
+    },
+    "problem": {
+      "eyebrow": "The problem with most cleaners",
+      "title": "Tired of cleaners who cancel, no-show, or never clean the same way twice?",
+      "subtitle": "You shouldn't have to wonder whether your cleaner will actually come — or who's walking into your home.",
+      "painTitle": "What you're used to",
+      "pains": [
+        "Last-minute cancellations and no-shows",
+        "A different stranger in your home every time",
+        "Great one week, sloppy the next",
+        "Hard to reach and confusing to communicate with"
+      ],
+      "solutionTitle": "What you get with Janet's",
+      "solutions": [
+        "A team that's missed only one cleaning in 8+ years",
+        "The same trusted, family-run people every visit",
+        "Consistent, detail-oriented results you can count on",
+        "Friendly, responsive service in English & Spanish"
+      ]
+    },
+    "servicesOverview": {
+      "eyebrow": "What we do",
+      "title": "Residential & commercial cleaning",
+      "subtitle": "From weekly upkeep to a full deep clean before you move, our family team has the Denver metro covered.",
+      "cta": "See all services"
+    },
+    "whyUs": {
+      "eyebrow": "The Janet's difference",
+      "title": "Cleaning you don't have to worry about",
+      "subtitle": "We built our reputation on the things unreliable cleaners get wrong.",
+      "points": [
+        { "title": "Dependable & punctual", "desc": "The #1 complaint about cleaners is no-shows. In 8+ years, we've missed exactly one scheduled cleaning." },
+        { "title": "Consistent, thorough quality", "desc": "The same careful standard on every visit — not great once and sloppy the next." },
+        { "title": "The same people you trust", "desc": "A small family business means you see familiar faces, not a rotating crew of strangers." },
+        { "title": "Fully bilingual", "desc": "We communicate clearly in English and Spanish — easy scheduling and no misunderstandings." },
+        { "title": "Fair, honest pricing", "desc": "An awesome job at a fair price, with discounts for recurring clients. No upsells." },
+        { "title": "Flexible scheduling", "desc": "Weekly, bi-weekly, monthly, or one-time. We work around your life." }
+      ]
+    },
+    "trustSignals": {
+      "title": "Built on trust",
+      "items": [
+        { "value": "8+ years", "label": "Serving the Denver metro" },
+        { "value": "1", "label": "Missed cleaning in all those years" },
+        { "value": "Family-owned", "label": "The same people, every visit" },
+        { "value": "[Insured? confirm with owner]", "label": "Bonded / insured status", "placeholder": true }
+      ]
+    },
+    "howItWorks": {
+      "eyebrow": "Simple from the start",
+      "title": "How it works",
+      "subtitle": "Getting a cleaner you trust shouldn't be complicated.",
+      "steps": [
+        { "title": "Request a free quote", "desc": "Call (720) 690-9613 or fill out our quick form. Tell us about your space and what you need." },
+        { "title": "Get a clear, fair price", "desc": "We'll give you an honest quote based on your home size, frequency, and services." },
+        { "title": "We make it spotless", "desc": "Our bilingual family team arrives on time and cleans to a checklist — every detail covered." }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "What clients say",
+      "title": "Trusted by Denver-metro homes & offices",
+      "subtitle": "Here's what a real client shared on Nextdoor. More verified Google & Nextdoor reviews coming soon.",
+      "disclaimer": "Additional slots below are reserved for real Google/Nextdoor reviews — they will be added before launch, not fabricated.",
+      "items": [
+        { "quote": "Janet's Cleaning is a family business and does an awesome job at a fair price. In the years we've worked with them, they've only missed one scheduled cleaning.", "name": "J.M., Denver", "source": "via Nextdoor", "real": true },
+        { "quote": "[Add real Google/Nextdoor review]", "name": "[Client name]", "source": "Google / Nextdoor", "real": false },
+        { "quote": "[Add real Google/Nextdoor review]", "name": "[Client name]", "source": "Google / Nextdoor", "real": false }
+      ]
+    },
+    "serviceArea": {
+      "eyebrow": "Where we clean",
+      "title": "Proudly serving the Denver metro",
+      "subtitle": "Serving Denver and surrounding metro areas. If you're in or around these communities, we'd love to help.",
+      "note": "Don't see your city? Call us — we likely cover it."
+    },
+    "faq": {
+      "eyebrow": "Good to know",
+      "title": "Frequently asked questions",
+      "subtitle": "Answers to what Denver homeowners ask us most.",
+      "items": [
+        { "q": "How much does cleaning cost?", "a": "Cleaning is quote-based because every home is different. Price depends on your home's size, how often you'd like service, and the type of cleaning. Request a free quote and we'll give you a clear, fair price — recurring clients save with weekly, bi-weekly, and monthly discounts." },
+        { "q": "Are you reliable? Do you ever cancel?", "a": "Reliability is what we're known for. In 8+ years of serving the Denver metro, we've missed only one scheduled cleaning. When we say we'll be there, we're there." },
+        { "q": "Will it be the same people each time?", "a": "Yes. We're a small family business, so you get the same trusted people — not a rotating crew of strangers walking into your home." },
+        { "q": "Do I need to provide cleaning supplies?", "a": "No — we bring our own supplies and equipment. If you'd prefer we use specific products (for allergies, pets, or surfaces), just let us know." },
+        { "q": "Do I have to be home during the cleaning?", "a": "It's up to you. Many clients give us access while they're at work; others prefer to be home. Whatever you're comfortable with — we're careful and respectful either way." },
+        { "q": "Are you bilingual?", "a": "Yes. We're fully bilingual and serve our Denver clients in both English and Spanish. Sí, hablamos español." },
+        { "q": "What areas do you serve?", "a": "We serve Denver and the surrounding metro, including Aurora, Lakewood, Centennial, Englewood, Littleton, Arvada, Westminster, Thornton, and more. Not sure if you're covered? Just call." }
+      ]
+    },
+    "ctaBand": {
+      "title": "Ready for a cleaner who actually shows up?",
+      "subtitle": "Get a free, no-obligation quote today. Phone is fastest — but we'll happily reply to your request.",
+      "primaryCta": "Request a Free Quote",
+      "secondaryCta": "Call (720) 690-9613"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Our services",
+      "title": "Thorough cleaning for homes and businesses",
+      "subtitle": "Residential and commercial cleaning across the Denver metro — handled by the same dependable family team, with care and consistency."
+    },
+    "list": {
+      "recurring": {
+        "name": "Recurring House Cleaning",
+        "tagline": "Keep your home effortlessly clean",
+        "desc": "Regular weekly, bi-weekly, or monthly cleaning that keeps your home consistently fresh — without you lifting a finger. Recurring clients enjoy our best pricing.",
+        "features": [
+          "Dusting all surfaces, shelves, and fixtures",
+          "Kitchen counters, sink, and exterior of appliances",
+          "Bathrooms: toilets, showers, tubs, sinks, mirrors",
+          "Vacuuming and mopping all floors",
+          "Trash removal and tidying",
+          "Discounts for weekly, bi-weekly & monthly plans"
+        ]
+      },
+      "deep": {
+        "name": "Deep Cleaning",
+        "tagline": "A top-to-bottom reset",
+        "desc": "A meticulous, top-to-bottom clean that reaches the buildup everyday cleaning misses. Perfect for first-time clients, spring cleaning, or before a special occasion.",
+        "features": [
+          "Everything in a standard clean, done deeper",
+          "Baseboards, door frames, and detailed dusting",
+          "Inside cabinets and drawers (on request)",
+          "Tile, grout, and hard-water buildup",
+          "Behind and under movable furniture",
+          "Detailed kitchen and bathroom scrubbing"
+        ]
+      },
+      "moveInOut": {
+        "name": "Move-In / Move-Out Cleaning",
+        "tagline": "Leave it spotless, start fresh",
+        "desc": "A complete clean for an empty home — ideal for renters wanting their deposit back, sellers prepping to list, or new owners starting fresh. Great for Airbnb and short-term-rental turnovers too.",
+        "features": [
+          "Full deep clean of an empty space",
+          "Inside cabinets, drawers, and closets",
+          "Inside the oven and refrigerator",
+          "Detailed bathroom and kitchen scrubbing",
+          "Baseboards, windowsills, and fixtures",
+          "Turnover-ready for the next tenant or owner"
+        ]
+      },
+      "office": {
+        "name": "Office & Commercial Cleaning",
+        "tagline": "A workplace that shines",
+        "desc": "Dependable cleaning for offices, small businesses, and commercial spaces around Denver. Flexible scheduling — including after-hours — so we never disrupt your workday.",
+        "features": [
+          "Workstations, desks, and common areas",
+          "Restrooms cleaned and restocked",
+          "Break rooms and kitchens",
+          "Floors vacuumed and mopped",
+          "Trash and recycling removal",
+          "Flexible day, evening, or weekend service"
+        ]
+      }
+    },
+    "addOns": {
+      "title": "Optional add-ons",
+      "subtitle": "Customize any cleaning with the extras you need.",
+      "items": {
+        "fridge": { "name": "Inside the fridge", "desc": "Shelves, drawers, and surfaces wiped clean." },
+        "oven": { "name": "Inside the oven", "desc": "Degreased and scrubbed inside and out." },
+        "windows": { "name": "Interior windows", "desc": "Streak-free interior glass and sills." },
+        "laundry": { "name": "Laundry", "desc": "Wash, dry, and fold while we clean." }
+      }
+    },
+    "ctaBand": {
+      "title": "Not sure which service you need?",
+      "subtitle": "Tell us about your space and we'll recommend the right fit — with a free quote.",
+      "primaryCta": "Request a Free Quote",
+      "secondaryCta": "Call (720) 690-9613"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Our story",
+      "title": "A local family business built on trust",
+      "subtitle": "Janet's Cleaning is owned and operated by Janet Liliana — serving the Denver metro for 8+ years with dependable, detail-oriented cleaning."
+    },
+    "story": {
+      "title": "Cleaning Denver homes like they're our own",
+      "paragraphs": [
+        "Janet's Cleaning started with a simple belief: people deserve a cleaner they can truly trust — someone who shows up, does careful work, and treats your home with respect.",
+        "For more than 8 years, owner Janet Liliana has built the business on word of mouth across the Denver metro, earning loyal clients one spotless home at a time. As a small, family-owned service, you get the same trusted people every visit — not a rotating crew. In all those years, we've missed just one scheduled cleaning.",
+        "Because so many of our neighbors are Spanish-speaking, being fully bilingual has always been at the heart of what we do. Scheduling, questions, and special requests are easy in English or Spanish — and the price is always fair."
+      ]
+    },
+    "values": {
+      "title": "What we stand for",
+      "items": [
+        { "title": "Reliability", "desc": "We show up on time, every time. One missed cleaning in 8+ years says it all." },
+        { "title": "Attention to detail", "desc": "We notice — and clean — the things others overlook, the same way every visit." },
+        { "title": "Trust & respect", "desc": "The same family team treats your home and belongings with the care they deserve." },
+        { "title": "Clear communication", "desc": "Bilingual, friendly, and responsive — no confusion, ever." }
+      ]
+    },
+    "stats": [
+      { "value": "8+ years", "label": "Serving the Denver metro" },
+      { "value": "Family-owned", "label": "The same trusted people" },
+      { "value": "Bilingual", "label": "English & Spanish" }
+    ],
+    "trustNote": "[Insured? confirm with owner] — bonded/insured status to be confirmed before launch.",
+    "ctaBand": {
+      "title": "Let's get your space sparkling",
+      "subtitle": "Experience cleaning from a family team that genuinely cares. Request your free quote today.",
+      "primaryCta": "Request a Free Quote",
+      "secondaryCta": "Call (720) 690-9613"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Let's talk about your space",
+      "subtitle": "Phone is the fastest way to reach us — but you can also email or request a free quote and we'll get right back to you."
+    },
+    "phoneCard": { "title": "Call us", "desc": "The quickest way to get answers and book." },
+    "emailCard": { "title": "Email us", "desc": "Prefer to write? We'll reply as soon as we can." },
+    "areaCard": { "title": "Service area", "desc": "Serving Denver and surrounding metro areas." },
+    "hoursTitle": "Hours",
+    "hoursPlaceholder": "[Confirm exact hours with owner]",
+    "hoursNote": "By appointment. Call or email anytime and we'll respond promptly.",
+    "formTitle": "Request a free quote",
+    "formSubtitle": "Fill out the form and we'll get back to you with a fair, no-obligation price."
+  },
+  "quote": {
+    "hero": {
+      "eyebrow": "Free quote",
+      "title": "Request your free cleaning quote",
+      "subtitle": "No obligation, no pressure. Tell us about your space and we'll get back to you with a clear, fair price. Prefer to talk? Call (720) 690-9613."
+    },
+    "pricing": {
+      "title": "How our pricing works",
+      "subtitle": "Cleaning is quote-based because no two spaces are alike. Your price depends on three things:",
+      "factors": [
+        { "title": "Home or office size", "desc": "Bedrooms, bathrooms, and square footage — bigger spaces take more time." },
+        { "title": "How often you clean", "desc": "Recurring weekly, bi-weekly, and monthly plans cost less per visit than one-time cleans." },
+        { "title": "Type of cleaning", "desc": "Standard upkeep, a full deep clean, or a move-in/move-out each take a different level of work." }
+      ],
+      "discountNote": "Recurring clients save the most — ask about our weekly, bi-weekly, and monthly discounts."
+    },
+    "form": {
+      "title": "Tell us about your space",
+      "subtitle": "All fields marked with * are required.",
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "phone": "Phone",
+      "phonePlaceholder": "(720) 000-0000",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "address": "Address or ZIP code",
+      "addressPlaceholder": "City or ZIP — so we can confirm service area",
+      "service": "Service needed",
+      "servicePlaceholder": "Select a service",
+      "serviceOptions": {
+        "recurring": "Recurring house cleaning",
+        "deep": "Deep cleaning",
+        "moveInOut": "Move-in / move-out",
+        "office": "Office / commercial",
+        "notSure": "Not sure — help me choose"
+      },
+      "frequency": "Frequency",
+      "frequencyPlaceholder": "Select a frequency",
+      "frequencyOptions": {
+        "weekly": "Weekly",
+        "biweekly": "Bi-weekly",
+        "monthly": "Monthly",
+        "oneTime": "One-time",
+        "notSure": "Not sure yet"
+      },
+      "message": "Anything else?",
+      "messagePlaceholder": "Square footage, bedrooms/baths, pets, parking, preferred days, or anything special.",
+      "consent": "I agree to be contacted about my quote by phone, text, or email.",
+      "submit": "Send my free quote request",
+      "submitting": "Sending…",
+      "requiredMark": "required"
+    },
+    "success": {
+      "title": "Request received — thank you!",
+      "message": "Thanks for reaching out to Janet's Cleaning. We'll get back to you soon with your free quote. For the fastest response, give us a call at (720) 690-9613.",
+      "again": "Submit another request"
+    },
+    "errors": {
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "Please enter a valid email address.",
+      "contact": "Please provide a phone number or email so we can reach you.",
+      "address": "Please enter your city or ZIP code.",
+      "service": "Please select a service.",
+      "consent": "Please agree to be contacted so we can send your quote.",
+      "generic": "Something went wrong sending your request. Please call us at (720) 690-9613 or try again."
+    }
+  },
+  "footer": {
+    "tagline": "Family-owned, bilingual house & office cleaning the Denver metro has trusted for 8+ years.",
+    "quickLinks": "Quick links",
+    "servicesTitle": "Services",
+    "contactTitle": "Get in touch",
+    "areaTitle": "Service area",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "builtNote": "Family owned & operated · Serving Denver and surrounding metro areas."
+  },
+  "legal": {
+    "lastUpdated": "Last updated",
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "Janet's Cleaning (\"we,\" \"us\") respects your privacy. This policy explains what information we collect through this website and how we use it.",
+      "sections": [
+        { "h": "Information we collect", "p": "When you request a quote or contact us, we collect the information you choose to provide — such as your name, phone number, email address, property location, and details about the cleaning you need. We may also collect basic, non-identifying usage data through standard web analytics." },
+        { "h": "How we use your information", "p": "We use your information solely to respond to your request, provide a quote, schedule and deliver our services, and communicate with you about your cleaning. We do not sell your personal information." },
+        { "h": "How we contact you", "p": "By submitting a quote request, you agree that we may contact you by phone, text message, or email regarding your request. You can opt out of further communication at any time by telling us." },
+        { "h": "Data sharing", "p": "We do not sell or rent your personal information. We may share it only with trusted service providers who help us operate (for example, email or hosting), and only as needed to serve you, or when required by law." },
+        { "h": "Data retention & security", "p": "We keep your information only as long as needed to serve you and meet legal obligations, and we take reasonable measures to protect it. No method of transmission over the internet is completely secure." },
+        { "h": "Your choices", "p": "You may request that we update or delete the personal information you've shared with us by contacting us using the details on our Contact page." },
+        { "h": "Changes to this policy", "p": "We may update this policy from time to time. The latest version will always be posted on this page." }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "These terms apply to your use of the Janet's Cleaning website and your request for our services.",
+      "sections": [
+        { "h": "Using this website", "p": "This website provides information about our cleaning services and lets you request a free quote. Quotes provided are estimates and are not a binding contract until confirmed directly with us." },
+        { "h": "Quotes & pricing", "p": "Cleaning is quote-based. Final pricing depends on the size of your space, the frequency of service, the type of cleaning, and any add-ons. We'll confirm pricing with you before any work begins." },
+        { "h": "Scheduling & cancellations", "p": "We do our best to arrive on time and as scheduled. We ask for reasonable notice to cancel or reschedule so we can serve all of our clients well." },
+        { "h": "Satisfaction", "p": "If something about your cleaning isn't right, let us know promptly and we'll work to make it right." },
+        { "h": "Limitation of liability", "p": "To the extent permitted by law, our liability is limited to the value of the specific service provided. Nothing in these terms excludes liability that cannot be excluded under applicable law." },
+        { "h": "Contact", "p": "Questions about these terms? Reach us using the details on our Contact page." }
+      ]
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "Sorry, we couldn't find the page you were looking for. Let's get you back on track.",
+    "cta": "Back to home"
+  }
+}
