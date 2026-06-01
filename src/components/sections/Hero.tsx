@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Phone, Star, ShieldCheck, Clock, Sparkles, CircleCheck } from "lucide-react";
+import { Phone, Star, ShieldCheck, Clock, Sparkles, CircleCheck, CalendarDays } from "lucide-react";
 import type { Locale } from "@/lib/i18n";
 import type { Dictionary } from "@/lib/dictionaries";
 import { business } from "@/lib/business";
@@ -43,9 +43,13 @@ export function Hero({ locale, dict }: { locale: Locale; dict: Dictionary }) {
             <span>{t.reliabilityBadge}</span>
           </p>
 
-          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+          <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
             <Button href={`/${locale}/quote`} size="lg">
               {t.primaryCta}
+            </Button>
+            <Button href={`/${locale}/booking`} size="lg" variant="secondary">
+              <CalendarDays className="h-5 w-5" aria-hidden="true" />
+              {t.bookCta}
             </Button>
             <Button href={business.phoneHref} size="lg" variant="outline">
               <Phone className="h-5 w-5" aria-hidden="true" />
@@ -74,18 +78,20 @@ export function Hero({ locale, dict }: { locale: Locale; dict: Dictionary }) {
               src="/hero.jpg"
               alt={
                 locale === "es"
-                  ? "Interior de una casa limpia y luminosa en Denver"
-                  : "Bright, freshly cleaned Denver home interior"
+                  ? "Limpiadora profesional ordenando una casa luminosa en Denver."
+                  : "Professional cleaner tidying a bright Denver home"
               }
               fill
               priority
               sizes="(max-width: 1024px) 100vw, 28rem"
               className="object-cover"
             />
-            {/* subtle brand tint for contrast over the photo */}
+            {/* readability overlay: faint teal tint + subtle dark gradient so the
+                white floating cards stay legible regardless of the photo */}
+            <div aria-hidden="true" className="absolute inset-0 bg-brand-900/10" />
             <div
               aria-hidden="true"
-              className="absolute inset-0 bg-gradient-to-t from-brand-900/30 via-brand-900/5 to-transparent"
+              className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-black/15"
             />
           </div>
 

@@ -30,6 +30,7 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
     { href: `${base}/services`, label: dict.nav.services },
     { href: `${base}/about`, label: dict.nav.about },
     { href: `${base}/contact`, label: dict.nav.contact },
+    { href: `${base}/booking`, label: dict.nav.book },
   ];
 
   function isActive(href: string) {

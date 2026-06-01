@@ -30,6 +30,7 @@
     "services": "Servicios",
     "about": "Nosotros",
     "contact": "Contacto",
+    "book": "Reservar",
     "quote": "Cotización gratis"
   },
   "meta": {
@@ -52,6 +53,10 @@
     "quote": {
       "title": "Solicite una cotización gratis",
       "description": "Cuéntenos sobre su casa u oficina y reciba una cotización de limpieza gratis y sin compromiso de Janet's Cleaning. Atendemos el área de Denver en inglés y español."
+    },
+    "booking": {
+      "title": "Reserva un estimado gratis",
+      "description": "Elige un día y una hora para tu estimado de limpieza gratis a domicilio con Janet's Cleaning. Atendemos el área de Denver en inglés y español."
     },
     "privacy": {
       "title": "Política de privacidad",
@@ -78,7 +83,8 @@
       "secondaryCta": "Llame al (720) 690-9613",
       "reliabilityBadge": "En años de servicio, solo hemos faltado a una limpieza programada.",
       "rating": "La confianza de las familias de Denver",
-      "imageAlt": "Sala iluminada y recién limpiada"
+      "imageAlt": "Sala iluminada y recién limpiada",
+      "bookCta": "Reservar una cita"
     },
     "trustBar": {
       "title": "Por qué los vecinos eligen Janet's Cleaning",
@@ -378,6 +384,41 @@
       "service": "Por favor seleccione un servicio.",
       "consent": "Por favor acepte que le contactemos para poder enviarle su cotización.",
       "generic": "Algo salió mal al enviar su solicitud. Llámenos al (720) 690-9613 o intente de nuevo."
+    }
+  },
+  "booking": {
+    "hero": {
+      "eyebrow": "Reservas en línea",
+      "title": "Programa tu estimado gratis",
+      "subtitle": "Elige un horario que se ajuste a ti — sin llamadas de ida y vuelta. ¿Prefieres hablar? Llama al (720) 690-9613."
+    },
+    "heading": "Reserva tu estimado gratis — elige la hora que mejor te convenga.",
+    "subtext": "Selecciona un día y una hora disponibles y confirmaremos tu estimado gratis a domicilio en breve.",
+    "calendarLabel": "Elige un día",
+    "timesHeading": "Horarios disponibles",
+    "selectDayFirst": "Selecciona un día disponible para ver los horarios.",
+    "timeSlots": ["8:00 a. m.", "10:00 a. m.", "12:00 p. m.", "2:00 p. m.", "4:00 p. m."],
+    "selectionSummary": "Seleccionado: {date} a las {time}",
+    "form": {
+      "title": "Tus datos",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "email": "Correo",
+      "namePlaceholder": "Tu nombre",
+      "phonePlaceholder": "(720) 000-0000",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "submit": "Confirmar reserva"
+    },
+    "errors": {
+      "slot": "Por favor elige un día y una hora.",
+      "name": "Por favor ingresa tu nombre.",
+      "phone": "Por favor ingresa tu teléfono.",
+      "email": "Por favor ingresa un correo electrónico válido."
+    },
+    "success": {
+      "title": "¡Listo!",
+      "message": "¡Gracias! Confirmaremos tu estimado del {date} a las {time} en breve.",
+      "again": "Reservar otra hora"
     }
   },
   "footer": {
